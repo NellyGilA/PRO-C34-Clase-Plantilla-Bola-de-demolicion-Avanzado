@@ -1,2 +1,2 @@
-# PRO-C34-Clase-Plantilla-Bola-de-demolicion-Avanzado
-Plantilla PRO-C34 Bola de demolicion para alumnos Avanzados
+# PRO-C34-Clase-Capstone-Bola-de-demolicion
+PRO-C34 Clase Capstone: Bola de demolición    Plantilla para la clase 34
